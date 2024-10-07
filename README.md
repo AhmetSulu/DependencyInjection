@@ -37,10 +37,10 @@ The project consists of the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dependency-injection-example.git
+   git clone https://github.com/AhmetSulu/DependencyInjection.git
 2. Navigate to the project directory:
    ```bash
-   cd dependency-injection-example
+   cd DependencyInjection
 3. Run the project:
    ```bash
    dotnet run
